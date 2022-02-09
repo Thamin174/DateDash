@@ -2,7 +2,7 @@
     {
         "UserName": "Lisa",
         "Gender": "female",
-        "DateOfBirth": "1956-07-22",
+        "DateOfBirth": "1996-07-22",
         "KnownAs": "Lisa",
         "Created": "2020-06-24",
         "LastActive": "2020-06-21",
@@ -13,7 +13,7 @@
         "Country": "Martinique",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/women/3.jpg",
+                "Url": "https://randomuser.me/api/portraits/women/95.jpg",
                 "IsMain": true
             }
         ]
